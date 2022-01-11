@@ -1,0 +1,28 @@
+C:\Users\Антон\Desktop\Kurs_BD\bin\Debug\Kurs_BD.exe.config
+C:\Users\Антон\Desktop\Kurs_BD\bin\Debug\Kurs_BD.exe
+C:\Users\Антон\Desktop\Kurs_BD\bin\Debug\Kurs_BD.pdb
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.Properties.Resources.resources
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.exe
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.pdb
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.Form1.resources
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.Form2.resources
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.Form3.resources
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.Form4.resources
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.Form5.resources
+C:\Users\Антон\Desktop\Kurs_BD\obj\Debug\Kurs_BD.Form6.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.csprojAssemblyReference.cache
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.Form1.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.Form2.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.Form3.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.Form4.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.Form5.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.Form6.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.Properties.Resources.resources
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.csproj.GenerateResource.cache
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.csproj.CoreCompileInputs.cache
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.exe
+D:\nikita\university\5 cсем\базы данных\курсовая работа\прога2\obj\Debug\Kurs_BD.pdb
